@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ワインレッドナイト",
+  "base_artist": "Vivanz Eden",
+  "createdAt": "2026-02-21T05:16:23.719496Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ワインレッドナイト",
+      "artist": "Vivanz Eden",
+      "has_synced": false,
+      "path": "select/pl_01_ワインレッドナイト_Vivanz_Eden.txt"
+    }
+  ]
+}
